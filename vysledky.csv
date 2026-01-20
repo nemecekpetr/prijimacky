@@ -1,0 +1,134 @@
+přijat/nepřijat;reg. číslo;tajné číslo;JPZ body;JPZ percentil;psychotest body;psychotest percentil;pohovor body;pohovor percentil;pořadí;poznámka
+ANO;801107;1;84;93%;29;91%;28;81%;5;
+NE;801541;2;44;34%;25;56%;18;21%;85;Nepřijat pro nedostačující kapacitu oboru
+ANO;801989;3;46;40%;24;47%;27;70%;63;
+NE;803086;4;27;5%;15;3%;12;4%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+ANO;803300;5;76;89%;29;91%;23;42%;14;
+NE;804199;6;66;74%;28;83%;30;95%;17;Přijat na více prioritní školu
+NE;805165;7;18;1%;15;3%;15;11%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+NE;805169;8;39;27%;22;30%;17;17%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+NE;805269;9;46;40%;16;6%;15;11%;94;Přijat na více prioritní školu
+NE;805394;10;60;68%;25;56%;24.5;55%;44;Přijat na více prioritní školu
+ANO;805547;11;52;55%;23;36%;26;61%;59;
+ANO;805921;12;38;25%;24;47%;28;81%;79;
+ANO;805952;13;45;36%;26;67%;17;17%;76;
+ANO;806087;14;88;96%;28;83%;29.5;92%;3;
+NE;806313;15;76;89%;22;30%;20;28%;39;Přijat na více prioritní školu
+ANO;806316;16;60;68%;24;47%;27;70%;42;
+ANO;806324;17;51;52%;25;56%;24.5;55%;55;
+NE;806452;18;12;0%;0;0%;0;0%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+ANO;806504;19;61;70%;21;24%;12.5;8%;62;
+ANO;806551;20;75;87%;27;79%;19;24%;23;
+NE;806868;21;47;42%;21;24%;9;2%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+NE;806882;22;30;11%;26;67%;16;14%;96;Nepřijat pro nedostačující kapacitu oboru
+NE;806919;23;21;2%;19;14%;12;4%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+NE;807028;24;89;98%;28;83%;19.5;27%;13;Přijat na více prioritní školu
+ANO;807099;25;74;86%;26;67%;15;11%;27;
+ANO;807114;26;72;83%;25;56%;29.5;92%;20;
+NE;807142;27;68;78%;24;47%;20.5;30%;47;Přijat na více prioritní školu
+ANO;807144;28;75;87%;23;36%;21;32%;36;
+ANO;807168;29;72;83%;23;36%;24;48%;34;
+ANO;807197;30;55;62%;26;67%;27;70%;40;
+NE;807426;31;41;29%;22;30%;23;42%;91;Nepřijat pro nedostačující kapacitu oboru
+NE;807432;32;63;72%;26;67%;19;24%;46;Přijat na více prioritní školu
+ANO;807528;33;53;58%;25;56%;28;81%;48;
+NE;807592;34;42;30%;20;19%;27;70%;86;Nepřijat pro nedostačující kapacitu oboru
+NE;807787;35;43;33%;20;19%;22.5;41%;92;Nepřijat pro nedostačující kapacitu oboru
+ANO;807839;36;45;36%;23;36%;25;58%;78;
+NE;808006;37;28;7%;23;36%;30;95%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+NE;808041;38;57;64%;24;47%;29;91%;41;Přijat na více prioritní školu
+NE;808131;39;51;52%;23;36%;17;17%;71;Přijat na více prioritní školu
+ANO;808425;40;50;50%;26;67%;28;81%;52;
+NE;808522;41;71;81%;28;83%;26;61%;19;Přijat na více prioritní školu
+NE;808710;42;45;36%;18;11%;19;24%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+ANO;809387;43;48;45%;21;24%;23.5;45%;77;
+NE;809740;44;47;42%;20;19%;24;48%;84;Nepřijat pro nedostačující kapacitu oboru
+NE;809805;45;35;23%;19;14%;26;61%;95;Nepřijat pro nedostačující kapacitu oboru
+NE;810042;46;33;18%;16;6%;23.5;45%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+NE;810102;47;23;3%;23;36%;21;32%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+NE;810316;48;28;7%;27;79%;20;28%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+NE;810413;49;41;29%;18;11%;28;81%;88;Nepřijat pro nedostačující kapacitu oboru
+NE;810674;50;96;100%;31;96%;26;61%;2;Přijat na více prioritní školu
+NE;810798;51;51;52%;19;14%;24.5;55%;67;Přijat na více prioritní školu
+ANO;810973;52;59;67%;25;56%;30;95%;31;
+ANO;811290;53;49;47%;27;79%;28;81%;50;
+NE;811389;54;68;78%;23;36%;24;48%;45;Přijat na více prioritní školu
+ANO;811634;55;50;50%;26;67%;21.5;35%;58;
+NE;811750;56;71;81%;0;0%;0;0%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+NE;811758;57;34;22%;19;14%;22;36%;97;Nepřijat pro nedostačující kapacitu oboru
+NE;811864;58;38;25%;21;24%;23;42%;93;Nepřijat pro nedostačující kapacitu oboru
+ANO;811958;59;91;98%;34;99%;30;95%;1;
+ANO;812047;60;67;75%;28;83%;22;36%;25;
+ANO;812206;61;53;58%;27;79%;30;95%;28;
+ANO;812221;94;52;55%;35;100%;27;70%;32;
+NE;812230;62;57;64%;23;36%;22;36%;57;Přijat na více prioritní školu
+ANO;812331;63;93;99%;30;95%;26;61%;4;
+ANO;812540;64;67;75%;25;56%;24;48%;35;
+NE;812592;65;78;90%;32;98%;28;81%;6;Přijat na více prioritní školu
+NE;812642;66;48;45%;22;30%;19;24%;83;Nepřijat pro nedostačující kapacitu oboru
+ANO;812764;67;49;47%;21;24%;25;58%;68;
+ANO;812805;68;58;65%;22;30%;27;70%;53;
+ANO;812828;69;70;80%;29;91%;30;95%;11;
+NE;812912;70;61;70%;26;67%;24;48%;38;Přijat na více prioritní školu
+ANO;812995;71;52;55%;23;36%;14.5;10%;69;
+NE;813005;72;67;75%;28;83%;21;32%;26;Přijat na více prioritní školu
+NE;813032;73;42;30%;23;36%;11.5;3%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+ANO;813115;74;44;34%;26;67%;21.5;35%;75;
+ANO;813129;75;47;42%;26;67%;17;17%;66;
+NE;813207;76;29;10%;22;30%;18.5;23%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+NE;813289;77;81;92%;25;56%;29.5;92%;12;Přijat na více prioritní školu
+NE;813664;78;45;36%;19;14%;23;42%;90;Nepřijat pro nedostačující kapacitu oboru
+NE;813686;79;32;16%;15;3%;18;21%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+NE;813706;80;28;7%;14;2%;16.5;15%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+NE;813812;81;31;14%;23;36%;17;17%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+NE;814332;82;29;10%;22;30%;26.5;67%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+ANO;814476;83;30;11%;31;96%;30;95%;65;
+NE;814499;84;28;7%;24;47%;18;21%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+NE;814501;85;85;94%;28;83%;20.5;30%;15;Přijat na více prioritní školu
+NE;814628;118;54;61%;16;6%;24;48%;64;Přijat na více prioritní školu
+NE;814707;86;52;55%;24;47%;30;95%;51;Přijat na více prioritní školu
+NE;814732;87;79;91%;31;96%;28;81%;7;Přijat na více prioritní školu
+ANO;814737;88;47;42%;26;67%;12;4%;73;
+NE;814753;89;85;94%;28;83%;25;58%;10;Přijat na více prioritní školu
+NE;814782;90;73;85%;26;67%;23.5;45%;24;Přijat na více prioritní školu
+ANO;814786;91;45;36%;24;47%;22;36%;81;
+NE;814791;92;60;68%;23;36%;17.5;20%;56;Přijat na více prioritní školu
+NE;814792;93;37;23%;26;67%;16.5;15%;89;Nepřijat pro nedostačující kapacitu oboru
+ANO;814881;95;56;63%;24;47%;28.5;89%;43;
+ANO;814943;96;64;73%;25;56%;27;70%;30;
+NE;815021;97;33;18%;16;6%;14;9%;102;Nepřijat pro nedostačující kapacitu oboru
+NE;815121;98;88;96%;29;91%;26.5;67%;8;Přijat na více prioritní školu
+ANO;815529;99;79;91%;30;95%;28;81%;9;
+ANO;815598;100;46;40%;25;56%;28;81%;61;
+NE;815604;101;50;50%;18;11%;22;36%;82;Nepřijat pro nedostačující kapacitu oboru
+NE;815621;102;32;16%;20;19%;26;61%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+NE;815644;103;30;11%;17;11%;29;91%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+ANO;815720;104;53;58%;26;67%;25;58%;49;
+NE;816137;105;33;18%;23;36%;27;70%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+NE;816216;106;22;2%;18;11%;15;11%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+ANO;816524;107;59;67%;25;56%;27.5;79%;37;
+NE;816566;108;67;75%;27;79%;11;2%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+ANO;816611;109;44;34%;21;24%;28;81%;80;
+ANO;816798;110;52;55%;22;30%;16;14%;74;
+NE;816899;111;33;18%;20;19%;22;36%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+NE;816910;112;32;16%;20;19%;12;4%;101;Nepřijat pro nedostačující kapacitu oboru
+NE;817073;113;39;27%;21;24%;27;70%;87;Nepřijat pro nedostačující kapacitu oboru
+NE;817111;114;86;95%;26;67%;22.5;41%;16;Přijat na více prioritní školu
+ANO;817205;115;70;80%;28;83%;27;70%;18;
+NE;817276;116;25;4%;13;2%;24;48%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+NE;817278;117;58;65%;28;83%;26;61%;29;Přijat na více prioritní školu
+NE;817290;119;37;23%;19;14%;12;4%;100;Nepřijat pro nedostačující kapacitu oboru
+NE;817387;120;42;30%;24;47%;24;48%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+NE;817594;121;25;4%;16;6%;24;48%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+NE;817832;122;71;81%;29;91%;21;32%;22;Přijat na více prioritní školu
+NE;817907;124;38;25%;26;67%;28.5;89%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+NE;817950;123;54;61%;20;19%;13;8%;72;Přijat na více prioritní školu
+NE;817963;125;49;47%;24;47%;27;70%;60;Přijat na více prioritní školu
+NE;818122;126;33;18%;15;3%;26;61%;98;Nepřijat pro nedostačující kapacitu oboru
+ANO;818195;127;42;30%;25;56%;27;70%;70;
+ANO;818260;128;74;86%;27;79%;24;48%;21;
+NE;818330;129;31;14%;25;56%;26;61%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+ANO;818388;130;49;47%;25;56%;27.5;79%;54;
+NE;818423;131;30;11%;22;30%;20;28%;99;Nepřijat pro nedostačující kapacitu oboru
+NE;818435;132;27;5%;16;6%;26.5;67%;103;Nepřijat pro nesplnění podmínek přijímacího řízení
+NE;819136;133;63;72%;24;47%;27.5;79%;33;Přijat na více prioritní školu
